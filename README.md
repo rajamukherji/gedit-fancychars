@@ -3,6 +3,10 @@ Fancy (unicode) character plugin for gedit3
 
 This TeXmacs inspired plugin generates unicode symbols as you type by catching key sequences, or by pressing `TAB`.
 
+## Background
+
+This plugin was written to allow unicode Greek letters and mathematical symbols in [Wrapl](http://wrapl.sourceforge.net). Originally I wrote my own clone of Gedit 2 using Wrapl (Wredit) as a programming exercise and implemented the unicode text replacement feature there. Wredit unfortunately lacks a lot of other functionality, so it made sense to recreate the unicode replacement feature as a plugin for Gedit 3.
+
 ## Requirements
 
 This plugin currently only works with Gedit 3.x.
