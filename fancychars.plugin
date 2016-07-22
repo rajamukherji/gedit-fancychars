@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=fancychars
+IAge=3
+Name=Fancy Chars
+Description=Generates Unicode characters
+Authors=Raja Mukherji <rajamukherji@gmail.com>
+Copyright=Copyright © 2016 Raja Mukherji <rajamukherji@gmail.com>
+Website=http://www.gedit.org
